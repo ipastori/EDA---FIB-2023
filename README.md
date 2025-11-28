@@ -20,4 +20,4 @@ Developed for the course **EDA – FIB (UPC)** for educational purposes only.
 
 ---
 
-Author: *[Irene Lorenzo (ipastori)*
+Author: *[Irene Lorenzo (ipastori)*]
